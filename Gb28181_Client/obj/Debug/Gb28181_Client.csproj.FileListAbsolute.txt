@@ -1,0 +1,27 @@
+F:\VisionVera\SourceCoder\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.Form1.resources
+F:\VisionVera\SourceCoder\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.Properties.Resources.resources
+F:\VisionVera\SourceCoder\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.csproj.GenerateResource.Cache
+F:\VisionVera\SourceCoder\Gb28181_Platform\Build\Gb28181_Client.exe.config
+F:\VisionVera\SourceCoder\Gb28181_Platform\Build\Gb28181_Client.exe
+F:\VisionVera\SourceCoder\Gb28181_Platform\Build\Gb28181_Client.pdb
+F:\VisionVera\SourceCoder\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.csprojResolveAssemblyReference.cache
+F:\VisionVera\SourceCoder\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.exe
+F:\VisionVera\SourceCoder\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.pdb
+D:\Gb28181_Platform\Build\Gb28181_Client.exe.config
+D:\Gb28181_Platform\Build\Gb28181_Client.exe
+D:\Gb28181_Platform\Build\Gb28181_Client.pdb
+D:\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.csprojResolveAssemblyReference.cache
+D:\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.Form1.resources
+D:\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.Properties.Resources.resources
+D:\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.csproj.GenerateResource.Cache
+D:\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.exe
+D:\Gb28181_Platform\Gb28181_Client\obj\Debug\Gb28181_Client.pdb
+F:\Visual Studio 2013\Projects\Gb28181_Platform2016\Build\Gb28181_Client.exe.config
+F:\Visual Studio 2013\Projects\Gb28181_Platform2016\Build\Gb28181_Client.exe
+F:\Visual Studio 2013\Projects\Gb28181_Platform2016\Build\Gb28181_Client.pdb
+F:\Visual Studio 2013\Projects\Gb28181_Platform2016\Gb28181_Client\obj\Debug\Gb28181_Client.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\Gb28181_Platform2016\Gb28181_Client\obj\Debug\Gb28181_Client.Properties.Resources.resources
+F:\Visual Studio 2013\Projects\Gb28181_Platform2016\Gb28181_Client\obj\Debug\Gb28181_Client.csproj.GenerateResource.Cache
+F:\Visual Studio 2013\Projects\Gb28181_Platform2016\Gb28181_Client\obj\Debug\Gb28181_Client.exe
+F:\Visual Studio 2013\Projects\Gb28181_Platform2016\Gb28181_Client\obj\Debug\Gb28181_Client.pdb
+F:\Visual Studio 2013\Projects\Gb28181_Platform2016\Gb28181_Client\obj\Debug\Gb28181_Client.Form1.resources

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sipaccounts>
+  <sipaccount>
+    <localID>34010000002000000001</localID>
+    <localSocket>192.168.10.45:5061</localSocket>
+    <remoteID>34020000001320000002</remoteID>
+    <remoteSocket>192.168.10.134:5060</remoteSocket>
+    <platformType>2</platformType>
+    <platformVersion>1</platformVersion>
+  </sipaccount>
+  <sipaccount>
+    <localID>34010000002000000001</localID>
+    <localSocket>192.168.10.45:5061</localSocket>
+    <remoteID>34020000001320000004</remoteID>
+    <remoteSocket>192.168.10.38:5060</remoteSocket>
+    <platformType>1</platformType>
+    <platformVersion>3</platformVersion>
+  </sipaccount>
+</sipaccounts>

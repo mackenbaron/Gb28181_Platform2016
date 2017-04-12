@@ -1,0 +1,23 @@
+2017-04-11 18:27:00,490 [9] DEBUG sipsorcery [(null)] - Logging initialised.
+2017-04-11 18:27:02,080 [9] DEBUG sipsorcery [(null)] -  2 SIPSorcery.GB28181.SIP.App.SIPAccount assets loaded from XML record set.
+2017-04-11 18:27:02,080 [9] DEBUG sipsorcery [(null)] - Starting file watch on Config and gb28181.xml.
+2017-04-11 18:27:02,130 [9] DEBUG sipsorcery [(null)] - SIP Registrar daemon starting...
+2017-04-11 18:27:02,190 [9] DEBUG sipsorcery.sip [(null)] - SIPUDPChannel listener created 192.168.10.45:5061.
+2017-04-11 18:27:02,190 [sipchanneludp-XXBI] DEBUG sipsorcery.sip [(null)] - SIPUDPChannel socket on udp:192.168.10.45:5061 listening started.
+2017-04-11 18:27:02,190 [9] DEBUG sipregistrar [(null)] - SIPRegistrarCore thread started with 1 threads.
+2017-04-11 18:27:02,220 [9] DEBUG sipsorcery [(null)] - SIP Registrar successfully started.
+2017-04-11 18:27:02,250 [sipchanneludp-XXBI] INFO  sipsorcery [(null)] - 需要提供身份认证字段192.168.10.38:5060
+2017-04-11 18:27:37,400 [sipchanneludp-XXBI] DEBUG sipsorcery [(null)] - KeepAlive:192.168.10.134:5060=====DevID:34020000001320000002=====Status:OK=====SN:78
+2017-04-11 18:28:37,237 [sipchanneludp-XXBI] DEBUG sipsorcery [(null)] - KeepAlive:192.168.10.134:5060=====DevID:34020000001320000002=====Status:OK=====SN:79
+2017-04-11 18:29:37,242 [sipchanneludp-XXBI] DEBUG sipsorcery [(null)] - KeepAlive:192.168.10.134:5060=====DevID:34020000001320000002=====Status:OK=====SN:80
+2017-04-11 18:30:37,325 [sipchanneludp-XXBI] DEBUG sipsorcery [(null)] - KeepAlive:192.168.10.134:5060=====DevID:34020000001320000002=====Status:OK=====SN:81
+2017-04-11 18:31:37,327 [sipchanneludp-XXBI] DEBUG sipsorcery [(null)] - KeepAlive:192.168.10.134:5060=====DevID:34020000001320000002=====Status:OK=====SN:82
+2017-04-11 18:32:37,263 [sipchanneludp-XXBI] DEBUG sipsorcery [(null)] - KeepAlive:192.168.10.134:5060=====DevID:34020000001320000002=====Status:OK=====SN:83
+2017-04-11 18:33:37,235 [sipchanneludp-XXBI] DEBUG sipsorcery [(null)] - KeepAlive:192.168.10.134:5060=====DevID:34020000001320000002=====Status:OK=====SN:84
+2017-04-11 18:34:29,356 [9] DEBUG sipsorcery [(null)] - SIP Registrar daemon stopping...
+2017-04-11 18:34:29,356 [9] DEBUG sipsorcery [(null)] - Shutting down SIP Transport.
+2017-04-11 18:34:29,356 [9] DEBUG sipsorcery.sip [(null)] - Closing SIP UDP Channel udp:192.168.10.45:5061.
+2017-04-11 18:34:29,366 [9] DEBUG sipsorcery.sip [(null)] - SIPTransport Shutdown Complete.
+2017-04-11 18:34:29,396 [sipchanneludp-XXBI] DEBUG sipsorcery.sip [(null)] - SIPUDPChannel socket on udp:192.168.10.45:5061 listening halted.
+2017-04-11 18:34:29,396 [9] DEBUG sipsorcery [(null)] - sip message service stopped.
+2017-04-11 18:34:29,406 [9] DEBUG sipsorcery [(null)] - SIP Registrar daemon stopped.
